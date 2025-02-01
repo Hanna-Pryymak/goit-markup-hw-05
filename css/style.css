@@ -673,9 +673,6 @@ button {
   background-color: #e7e9fc;
   border: 1px solid rgba(46, 47, 66, 0.4);
   border-radius: 50%;
-  /* stroke-width: 1px; */
-  /* stroke-opacity: #2e2f42; */
-
   position: absolute;
   top: 24px;
   right: 24px;
@@ -716,7 +713,6 @@ button {
   border-radius: 4px;
   padding-left: 38px;
   padding-right: 16px;
-  /* font-style: 18px; */
   color: #000;
   outline: transparent;
 }
